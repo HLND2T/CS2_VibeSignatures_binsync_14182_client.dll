@@ -1,0 +1,2295 @@
+[0x355280]
+last_change = 2026-09-23T12:23:56.021562Z
+addr = 0x355280
+func_addr = 0x355230
+comment = "Trap to Debugger"
+decompiled = false
+
+[0x3552ac]
+last_change = 2026-09-23T12:23:56.021590Z
+addr = 0x3552ac
+func_addr = 0x355230
+comment = "Trap to Debugger"
+decompiled = false
+
+[0x3553d7]
+last_change = 2026-09-23T12:23:56.075699Z
+addr = 0x3553d7
+func_addr = 0x355390
+comment = "Trap to Debugger"
+decompiled = false
+
+[0x355403]
+last_change = 2026-09-23T12:23:56.075718Z
+addr = 0x355403
+func_addr = 0x355390
+comment = "Trap to Debugger"
+decompiled = false
+
+[0x36c7b4]
+last_change = 2026-09-23T12:23:56.129817Z
+addr = 0x36c7b4
+func_addr = 0x36c690
+comment = "Trap to Debugger"
+decompiled = false
+
+[0xa1c3cd]
+last_change = 2026-09-23T12:23:57.047185Z
+addr = 0xa1c3cd
+func_addr = 0xa1c130
+comment = "switch 10 cases"
+decompiled = false
+
+[0xa1c3e2]
+last_change = 2026-09-23T12:23:57.047211Z
+addr = 0xa1c3e2
+func_addr = 0xa1c130
+comment = "switch jump"
+decompiled = false
+
+[0xa1c3e4]
+last_change = 2026-09-23T12:23:57.047218Z
+addr = 0xa1c3e4
+func_addr = 0xa1c130
+comment = "jumptable 0000000180A1D3E2 case 1"
+decompiled = false
+
+[0xa1c45b]
+last_change = 2026-09-23T12:23:57.047224Z
+addr = 0xa1c45b
+func_addr = 0xa1c130
+comment = "jumptable 0000000180A1D3E2 case 2"
+decompiled = false
+
+[0xa1c4c2]
+last_change = 2026-09-23T12:23:57.047229Z
+addr = 0xa1c4c2
+func_addr = 0xa1c130
+comment = "jumptable 0000000180A1D3E2 case 3"
+decompiled = false
+
+[0xa1c52a]
+last_change = 2026-09-23T12:23:57.047234Z
+addr = 0xa1c52a
+func_addr = 0xa1c130
+comment = "jumptable 0000000180A1D3E2 case 4"
+decompiled = false
+
+[0xa1c58f]
+last_change = 2026-09-23T12:23:57.047242Z
+addr = 0xa1c58f
+func_addr = 0xa1c130
+comment = "jumptable 0000000180A1D3E2 case 5"
+decompiled = false
+
+[0xa1c5f6]
+last_change = 2026-09-23T12:23:57.047248Z
+addr = 0xa1c5f6
+func_addr = 0xa1c130
+comment = "jumptable 0000000180A1D3E2 case 6"
+decompiled = false
+
+[0xa1c65b]
+last_change = 2026-09-23T12:23:57.047253Z
+addr = 0xa1c65b
+func_addr = 0xa1c130
+comment = "jumptable 0000000180A1D3E2 case 7"
+decompiled = false
+
+[0xa1c6bd]
+last_change = 2026-09-23T12:23:57.047258Z
+addr = 0xa1c6bd
+func_addr = 0xa1c130
+comment = "jumptable 0000000180A1D3E2 case 8"
+decompiled = false
+
+[0xa1c723]
+last_change = 2026-09-23T12:23:57.047263Z
+addr = 0xa1c723
+func_addr = 0xa1c130
+comment = "jumptable 0000000180A1D3E2 case 9"
+decompiled = false
+
+[0xa1c783]
+last_change = 2026-09-23T12:23:57.047269Z
+addr = 0xa1c783
+func_addr = 0xa1c130
+comment = "jumptable 0000000180A1D3E2 default case"
+decompiled = false
+
+[0xa1c7a4]
+last_change = 2026-09-23T12:23:57.047274Z
+addr = 0xa1c7a4
+func_addr = 0xa1c130
+comment = "jumptable 0000000180A1D3E2 case 0"
+decompiled = false
+
+[0xa1c7ec]
+last_change = 2026-09-23T12:23:57.047279Z
+addr = 0xa1c7ec
+func_addr = 0xa1c130
+comment = "jump table for switch statement"
+decompiled = false
+
+[0xabac43]
+last_change = 2026-09-23T12:23:58.606563Z
+addr = 0xabac43
+func_addr = 0xaba9d0
+comment = "this"
+decompiled = false
+
+[0xabb06f]
+last_change = 2026-09-23T12:23:58.606595Z
+addr = 0xabb06f
+func_addr = 0xaba9d0
+comment = "Trap to Debugger"
+decompiled = false
+
+[0xb17aa4]
+last_change = 2026-09-23T12:23:58.660653Z
+addr = 0xb17aa4
+func_addr = 0xb17870
+comment = "void (__cdecl *)()"
+decompiled = false
+
+[0xb62c1c]
+last_change = 2026-09-23T12:23:58.769321Z
+addr = 0xb62c1c
+func_addr = 0xb62af0
+comment = "Trap to Debugger"
+decompiled = false
+
+[0xb62c4d]
+last_change = 2026-09-23T12:23:58.769352Z
+addr = 0xb62c4d
+func_addr = 0xb62af0
+comment = "Trap to Debugger"
+decompiled = false
+
+[0xb6314e]
+last_change = 2026-09-23T12:23:58.769361Z
+addr = 0xb6314e
+func_addr = 0xb62af0
+comment = "Trap to Debugger"
+decompiled = false
+
+[0xb6b35f]
+last_change = 2026-09-23T12:23:58.930396Z
+addr = 0xb6b35f
+func_addr = 0xb6b300
+comment = "switch 10 cases"
+decompiled = false
+
+[0xb6b385]
+last_change = 2026-09-23T12:23:58.930427Z
+addr = 0xb6b385
+func_addr = 0xb6b300
+comment = "switch jump"
+decompiled = false
+
+[0xb6b387]
+last_change = 2026-09-23T12:23:58.930436Z
+addr = 0xb6b387
+func_addr = 0xb6b300
+comment = "jumptable 0000000180B6C385 case 12"
+decompiled = false
+
+[0xb6b3ef]
+last_change = 2026-09-23T12:23:58.930444Z
+addr = 0xb6b3ef
+func_addr = 0xb6b300
+comment = "jumptable 0000000180B6C385 case 4"
+decompiled = false
+
+[0xb6b45f]
+last_change = 2026-09-23T12:23:58.930452Z
+addr = 0xb6b45f
+func_addr = 0xb6b300
+comment = "jumptable 0000000180B6C385 case 9"
+decompiled = false
+
+[0xb6b484]
+last_change = 2026-09-23T12:23:58.930460Z
+addr = 0xb6b484
+func_addr = 0xb6b300
+comment = "jumptable 0000000180B6C385 case 10"
+decompiled = false
+
+[0xb6b60b]
+last_change = 2026-09-23T12:23:58.930467Z
+addr = 0xb6b60b
+func_addr = 0xb6b300
+comment = "jumptable 0000000180B6C385 case 5"
+decompiled = false
+
+[0xb6b72f]
+last_change = 2026-09-23T12:23:58.930474Z
+addr = 0xb6b72f
+func_addr = 0xb6b300
+comment = "jumptable 0000000180B6C385 case 8"
+decompiled = false
+
+[0xb6b798]
+last_change = 2026-09-23T12:23:58.930482Z
+addr = 0xb6b798
+func_addr = 0xb6b300
+comment = "jumptable 0000000180B6C385 case 6"
+decompiled = false
+
+[0xb6b7e7]
+last_change = 2026-09-23T12:23:58.930489Z
+addr = 0xb6b7e7
+func_addr = 0xb6b300
+comment = "jumptable 0000000180B6C385 case 7"
+decompiled = false
+
+[0xb6b848]
+last_change = 2026-09-23T12:23:58.930497Z
+addr = 0xb6b848
+func_addr = 0xb6b300
+comment = "jumptable 0000000180B6C385 case 3"
+decompiled = false
+
+[0xb6b87e]
+last_change = 2026-09-23T12:23:58.930504Z
+addr = 0xb6b87e
+func_addr = 0xb6b300
+comment = "jumptable 0000000180B6C385 default case, case 11"
+decompiled = false
+
+[0xb6b8c8]
+last_change = 2026-09-23T12:23:58.930538Z
+addr = 0xb6b8c8
+func_addr = 0xb6b300
+comment = "jump table for switch statement"
+decompiled = false
+
+[0xf8b560]
+last_change = 2026-09-23T12:23:59.791796Z
+addr = 0xf8b560
+func_addr = 0xf8b560
+comment = "switch 42 cases"
+decompiled = false
+
+[0xf8b57f]
+last_change = 2026-09-23T12:23:59.791848Z
+addr = 0xf8b57f
+func_addr = 0xf8b560
+comment = "switch jump"
+decompiled = false
+
+[0xf8b581]
+last_change = 2026-09-23T12:23:59.791860Z
+addr = 0xf8b581
+func_addr = 0xf8b560
+comment = "jumptable 0000000180F8C57F case 1"
+decompiled = false
+
+[0xf8b589]
+last_change = 2026-09-23T12:23:59.791870Z
+addr = 0xf8b589
+func_addr = 0xf8b560
+comment = "jumptable 0000000180F8C57F case 2"
+decompiled = false
+
+[0xf8b591]
+last_change = 2026-09-23T12:23:59.791879Z
+addr = 0xf8b591
+func_addr = 0xf8b560
+comment = "jumptable 0000000180F8C57F case 3"
+decompiled = false
+
+[0xf8b599]
+last_change = 2026-09-23T12:23:59.791891Z
+addr = 0xf8b599
+func_addr = 0xf8b560
+comment = "jumptable 0000000180F8C57F case 4"
+decompiled = false
+
+[0xf8b5a1]
+last_change = 2026-09-23T12:23:59.791900Z
+addr = 0xf8b5a1
+func_addr = 0xf8b560
+comment = "jumptable 0000000180F8C57F case 5"
+decompiled = false
+
+[0xf8b5a9]
+last_change = 2026-09-23T12:23:59.791908Z
+addr = 0xf8b5a9
+func_addr = 0xf8b560
+comment = "jumptable 0000000180F8C57F case 6"
+decompiled = false
+
+[0xf8b5b1]
+last_change = 2026-09-23T12:23:59.791917Z
+addr = 0xf8b5b1
+func_addr = 0xf8b560
+comment = "jumptable 0000000180F8C57F case 7"
+decompiled = false
+
+[0xf8b5b9]
+last_change = 2026-09-23T12:23:59.791925Z
+addr = 0xf8b5b9
+func_addr = 0xf8b560
+comment = "jumptable 0000000180F8C57F case 8"
+decompiled = false
+
+[0xf8b5c1]
+last_change = 2026-09-23T12:23:59.791934Z
+addr = 0xf8b5c1
+func_addr = 0xf8b560
+comment = "jumptable 0000000180F8C57F case 9"
+decompiled = false
+
+[0xf8b5c9]
+last_change = 2026-09-23T12:23:59.791942Z
+addr = 0xf8b5c9
+func_addr = 0xf8b560
+comment = "jumptable 0000000180F8C57F case 10"
+decompiled = false
+
+[0xf8b5d1]
+last_change = 2026-09-23T12:23:59.791951Z
+addr = 0xf8b5d1
+func_addr = 0xf8b560
+comment = "jumptable 0000000180F8C57F case 11"
+decompiled = false
+
+[0xf8b5d9]
+last_change = 2026-09-23T12:23:59.791960Z
+addr = 0xf8b5d9
+func_addr = 0xf8b560
+comment = "jumptable 0000000180F8C57F case 12"
+decompiled = false
+
+[0xf8b5e1]
+last_change = 2026-09-23T12:23:59.791969Z
+addr = 0xf8b5e1
+func_addr = 0xf8b560
+comment = "jumptable 0000000180F8C57F case 13"
+decompiled = false
+
+[0xf8b5e9]
+last_change = 2026-09-23T12:23:59.791978Z
+addr = 0xf8b5e9
+func_addr = 0xf8b560
+comment = "jumptable 0000000180F8C57F case 14"
+decompiled = false
+
+[0xf8b5f1]
+last_change = 2026-09-23T12:23:59.791986Z
+addr = 0xf8b5f1
+func_addr = 0xf8b560
+comment = "jumptable 0000000180F8C57F case 15"
+decompiled = false
+
+[0xf8b5f9]
+last_change = 2026-09-23T12:23:59.791995Z
+addr = 0xf8b5f9
+func_addr = 0xf8b560
+comment = "jumptable 0000000180F8C57F case 16"
+decompiled = false
+
+[0xf8b601]
+last_change = 2026-09-23T12:23:59.792003Z
+addr = 0xf8b601
+func_addr = 0xf8b560
+comment = "jumptable 0000000180F8C57F case 17"
+decompiled = false
+
+[0xf8b609]
+last_change = 2026-09-23T12:23:59.792012Z
+addr = 0xf8b609
+func_addr = 0xf8b560
+comment = "jumptable 0000000180F8C57F case 18"
+decompiled = false
+
+[0xf8b611]
+last_change = 2026-09-23T12:23:59.792020Z
+addr = 0xf8b611
+func_addr = 0xf8b560
+comment = "jumptable 0000000180F8C57F case 19"
+decompiled = false
+
+[0xf8b619]
+last_change = 2026-09-23T12:23:59.792029Z
+addr = 0xf8b619
+func_addr = 0xf8b560
+comment = "jumptable 0000000180F8C57F case 20"
+decompiled = false
+
+[0xf8b621]
+last_change = 2026-09-23T12:23:59.792037Z
+addr = 0xf8b621
+func_addr = 0xf8b560
+comment = "jumptable 0000000180F8C57F case 21"
+decompiled = false
+
+[0xf8b629]
+last_change = 2026-09-23T12:23:59.792046Z
+addr = 0xf8b629
+func_addr = 0xf8b560
+comment = "jumptable 0000000180F8C57F case 22"
+decompiled = false
+
+[0xf8b631]
+last_change = 2026-09-23T12:23:59.792055Z
+addr = 0xf8b631
+func_addr = 0xf8b560
+comment = "jumptable 0000000180F8C57F case 23"
+decompiled = false
+
+[0xf8b639]
+last_change = 2026-09-23T12:23:59.792063Z
+addr = 0xf8b639
+func_addr = 0xf8b560
+comment = "jumptable 0000000180F8C57F case 24"
+decompiled = false
+
+[0xf8b641]
+last_change = 2026-09-23T12:23:59.792072Z
+addr = 0xf8b641
+func_addr = 0xf8b560
+comment = "jumptable 0000000180F8C57F case 25"
+decompiled = false
+
+[0xf8b649]
+last_change = 2026-09-23T12:23:59.792080Z
+addr = 0xf8b649
+func_addr = 0xf8b560
+comment = "jumptable 0000000180F8C57F case 26"
+decompiled = false
+
+[0xf8b651]
+last_change = 2026-09-23T12:23:59.792089Z
+addr = 0xf8b651
+func_addr = 0xf8b560
+comment = "jumptable 0000000180F8C57F case 27"
+decompiled = false
+
+[0xf8b659]
+last_change = 2026-09-23T12:23:59.792097Z
+addr = 0xf8b659
+func_addr = 0xf8b560
+comment = "jumptable 0000000180F8C57F case 28"
+decompiled = false
+
+[0xf8b661]
+last_change = 2026-09-23T12:23:59.792106Z
+addr = 0xf8b661
+func_addr = 0xf8b560
+comment = "jumptable 0000000180F8C57F case 29"
+decompiled = false
+
+[0xf8b669]
+last_change = 2026-09-23T12:23:59.792115Z
+addr = 0xf8b669
+func_addr = 0xf8b560
+comment = "jumptable 0000000180F8C57F case 30"
+decompiled = false
+
+[0xf8b671]
+last_change = 2026-09-23T12:23:59.792123Z
+addr = 0xf8b671
+func_addr = 0xf8b560
+comment = "jumptable 0000000180F8C57F case 31"
+decompiled = false
+
+[0xf8b679]
+last_change = 2026-09-23T12:23:59.792132Z
+addr = 0xf8b679
+func_addr = 0xf8b560
+comment = "jumptable 0000000180F8C57F case 32"
+decompiled = false
+
+[0xf8b681]
+last_change = 2026-09-23T12:23:59.792140Z
+addr = 0xf8b681
+func_addr = 0xf8b560
+comment = "jumptable 0000000180F8C57F case 33"
+decompiled = false
+
+[0xf8b689]
+last_change = 2026-09-23T12:23:59.792149Z
+addr = 0xf8b689
+func_addr = 0xf8b560
+comment = "jumptable 0000000180F8C57F case 34"
+decompiled = false
+
+[0xf8b691]
+last_change = 2026-09-23T12:23:59.792157Z
+addr = 0xf8b691
+func_addr = 0xf8b560
+comment = "jumptable 0000000180F8C57F case 35"
+decompiled = false
+
+[0xf8b699]
+last_change = 2026-09-23T12:23:59.792166Z
+addr = 0xf8b699
+func_addr = 0xf8b560
+comment = "jumptable 0000000180F8C57F case 36"
+decompiled = false
+
+[0xf8b6a1]
+last_change = 2026-09-23T12:23:59.792174Z
+addr = 0xf8b6a1
+func_addr = 0xf8b560
+comment = "jumptable 0000000180F8C57F case 37"
+decompiled = false
+
+[0xf8b6a9]
+last_change = 2026-09-23T12:23:59.792183Z
+addr = 0xf8b6a9
+func_addr = 0xf8b560
+comment = "jumptable 0000000180F8C57F case 38"
+decompiled = false
+
+[0xf8b6b1]
+last_change = 2026-09-23T12:23:59.792191Z
+addr = 0xf8b6b1
+func_addr = 0xf8b560
+comment = "jumptable 0000000180F8C57F case 39"
+decompiled = false
+
+[0xf8b6b9]
+last_change = 2026-09-23T12:23:59.792200Z
+addr = 0xf8b6b9
+func_addr = 0xf8b560
+comment = "jumptable 0000000180F8C57F case 40"
+decompiled = false
+
+[0xf8b6c1]
+last_change = 2026-09-23T12:23:59.792208Z
+addr = 0xf8b6c1
+func_addr = 0xf8b560
+comment = "jumptable 0000000180F8C57F case 41"
+decompiled = false
+
+[0xf8b6c9]
+last_change = 2026-09-23T12:23:59.792217Z
+addr = 0xf8b6c9
+func_addr = 0xf8b560
+comment = "jumptable 0000000180F8C57F case 42"
+decompiled = false
+
+[0xf8b6d1]
+last_change = 2026-09-23T12:23:59.792226Z
+addr = 0xf8b6d1
+func_addr = 0xf8b560
+comment = "jumptable 0000000180F8C57F default case"
+decompiled = false
+
+[0xf956ed]
+last_change = 2026-09-23T12:24:00.383510Z
+addr = 0xf956ed
+func_addr = 0xf955c0
+comment = "void (__cdecl *)()"
+decompiled = false
+
+[0xf96485]
+last_change = 2026-09-23T12:24:00.545674Z
+addr = 0xf96485
+func_addr = 0xf963b0
+comment = "void (__cdecl *)()"
+decompiled = false
+
+[0xf9c7e1]
+last_change = 2026-09-23T12:24:00.599672Z
+addr = 0xf9c7e1
+func_addr = 0xf9c7c0
+comment = "this"
+decompiled = false
+
+[0xf9c7ec]
+last_change = 2026-09-23T12:24:00.599716Z
+addr = 0xf9c7ec
+func_addr = 0xf9c7c0
+comment = "this"
+decompiled = false
+
+[0xf9c7f0]
+last_change = 2026-09-23T12:24:00.599730Z
+addr = 0xf9c7f0
+func_addr = 0xf9c7c0
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xf9cb0f]
+last_change = 2026-09-23T12:24:00.599749Z
+addr = 0xf9cb0f
+func_addr = 0xf9c7c0
+comment = "this"
+decompiled = false
+
+[0xf9cb18]
+last_change = 2026-09-23T12:24:00.599760Z
+addr = 0xf9cb18
+func_addr = 0xf9c7c0
+comment = "this"
+decompiled = false
+
+[0xf9d295]
+last_change = 2026-09-23T12:24:00.654040Z
+addr = 0xf9d295
+func_addr = 0xf9d1c0
+comment = "void (__cdecl *)()"
+decompiled = false
+
+[0xf9d401]
+last_change = 2026-09-23T12:24:00.706134Z
+addr = 0xf9d401
+func_addr = 0xf9d2c0
+comment = "void (__cdecl *)()"
+decompiled = false
+
+[0xfa0a79]
+last_change = 2026-09-23T12:24:00.973817Z
+addr = 0xfa0a79
+func_addr = 0xfa0880
+comment = "void (__cdecl *)()"
+decompiled = false
+
+[0xfa0f26]
+last_change = 2026-09-23T12:24:01.027360Z
+addr = 0xfa0f26
+func_addr = 0xfa0cf0
+comment = "this"
+decompiled = false
+
+[0xfa0f31]
+last_change = 2026-09-23T12:24:01.027399Z
+addr = 0xfa0f31
+func_addr = 0xfa0cf0
+comment = "this"
+decompiled = false
+
+[0xfa0f36]
+last_change = 2026-09-23T12:24:01.027410Z
+addr = 0xfa0f36
+func_addr = 0xfa0cf0
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfa104b]
+last_change = 2026-09-23T12:24:01.027421Z
+addr = 0xfa104b
+func_addr = 0xfa0cf0
+comment = "this"
+decompiled = false
+
+[0xfa1055]
+last_change = 2026-09-23T12:24:01.027431Z
+addr = 0xfa1055
+func_addr = 0xfa0cf0
+comment = "this"
+decompiled = false
+
+[0xfa10c7]
+last_change = 2026-09-23T12:24:01.080974Z
+addr = 0xfa10c7
+func_addr = 0xfa10a0
+comment = "this"
+decompiled = false
+
+[0xfa10cf]
+last_change = 2026-09-23T12:24:01.081012Z
+addr = 0xfa10cf
+func_addr = 0xfa10a0
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfa10d2]
+last_change = 2026-09-23T12:24:01.081024Z
+addr = 0xfa10d2
+func_addr = 0xfa10a0
+comment = "this"
+decompiled = false
+
+[0xfa1258]
+last_change = 2026-09-23T12:24:01.081034Z
+addr = 0xfa1258
+func_addr = 0xfa10a0
+comment = "this"
+decompiled = false
+
+[0xfa12c5]
+last_change = 2026-09-23T12:24:01.081045Z
+addr = 0xfa12c5
+func_addr = 0xfa10a0
+comment = "struct v8::internal::Isolate *"
+decompiled = false
+
+[0xfa12c8]
+last_change = 2026-09-23T12:24:01.081055Z
+addr = 0xfa12c8
+func_addr = 0xfa10a0
+comment = "this"
+decompiled = false
+
+[0xfa12dd]
+last_change = 2026-09-23T12:24:01.081066Z
+addr = 0xfa12dd
+func_addr = 0xfa10a0
+comment = "this"
+decompiled = false
+
+[0xfa12fa]
+last_change = 2026-09-23T12:24:01.081076Z
+addr = 0xfa12fa
+func_addr = 0xfa10a0
+comment = "unsigned __int64 **"
+decompiled = false
+
+[0xfa1300]
+last_change = 2026-09-23T12:24:01.081086Z
+addr = 0xfa1300
+func_addr = 0xfa10a0
+comment = "this"
+decompiled = false
+
+[0xfa1310]
+last_change = 2026-09-23T12:24:01.081096Z
+addr = 0xfa1310
+func_addr = 0xfa10a0
+comment = "this"
+decompiled = false
+
+[0xfa1324]
+last_change = 2026-09-23T12:24:01.081106Z
+addr = 0xfa1324
+func_addr = 0xfa10a0
+comment = "unsigned __int64"
+decompiled = false
+
+[0xfa1327]
+last_change = 2026-09-23T12:24:01.081117Z
+addr = 0xfa1327
+func_addr = 0xfa10a0
+comment = "struct v8::internal::Isolate *"
+decompiled = false
+
+[0xfa1657]
+last_change = 2026-09-23T12:24:01.081127Z
+addr = 0xfa1657
+func_addr = 0xfa10a0
+comment = "this"
+decompiled = false
+
+[0xfa1660]
+last_change = 2026-09-23T12:24:01.081137Z
+addr = 0xfa1660
+func_addr = 0xfa10a0
+comment = "this"
+decompiled = false
+
+[0xfa16b2]
+last_change = 2026-09-23T12:24:01.081147Z
+addr = 0xfa16b2
+func_addr = 0xfa10a0
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfa16b6]
+last_change = 2026-09-23T12:24:01.081176Z
+addr = 0xfa16b6
+func_addr = 0xfa10a0
+comment = "this"
+decompiled = false
+
+[0xfa171b]
+last_change = 2026-09-23T12:24:01.081188Z
+addr = 0xfa171b
+func_addr = 0xfa10a0
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfa171f]
+last_change = 2026-09-23T12:24:01.081200Z
+addr = 0xfa171f
+func_addr = 0xfa10a0
+comment = "this"
+decompiled = false
+
+[0xfa1784]
+last_change = 2026-09-23T12:24:01.081210Z
+addr = 0xfa1784
+func_addr = 0xfa10a0
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfa1788]
+last_change = 2026-09-23T12:24:01.081221Z
+addr = 0xfa1788
+func_addr = 0xfa10a0
+comment = "this"
+decompiled = false
+
+[0xfa17ed]
+last_change = 2026-09-23T12:24:01.081231Z
+addr = 0xfa17ed
+func_addr = 0xfa10a0
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfa17f4]
+last_change = 2026-09-23T12:24:01.081241Z
+addr = 0xfa17f4
+func_addr = 0xfa10a0
+comment = "this"
+decompiled = false
+
+[0xfa1855]
+last_change = 2026-09-23T12:24:01.081252Z
+addr = 0xfa1855
+func_addr = 0xfa10a0
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfa1859]
+last_change = 2026-09-23T12:24:01.081262Z
+addr = 0xfa1859
+func_addr = 0xfa10a0
+comment = "this"
+decompiled = false
+
+[0xfa18ba]
+last_change = 2026-09-23T12:24:01.081272Z
+addr = 0xfa18ba
+func_addr = 0xfa10a0
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfa18be]
+last_change = 2026-09-23T12:24:01.081283Z
+addr = 0xfa18be
+func_addr = 0xfa10a0
+comment = "this"
+decompiled = false
+
+[0xfa191f]
+last_change = 2026-09-23T12:24:01.081293Z
+addr = 0xfa191f
+func_addr = 0xfa10a0
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfa1923]
+last_change = 2026-09-23T12:24:01.081303Z
+addr = 0xfa1923
+func_addr = 0xfa10a0
+comment = "this"
+decompiled = false
+
+[0xfa1984]
+last_change = 2026-09-23T12:24:01.081314Z
+addr = 0xfa1984
+func_addr = 0xfa10a0
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfa1988]
+last_change = 2026-09-23T12:24:01.081324Z
+addr = 0xfa1988
+func_addr = 0xfa10a0
+comment = "this"
+decompiled = false
+
+[0xfa19e9]
+last_change = 2026-09-23T12:24:01.081334Z
+addr = 0xfa19e9
+func_addr = 0xfa10a0
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfa19ed]
+last_change = 2026-09-23T12:24:01.081344Z
+addr = 0xfa19ed
+func_addr = 0xfa10a0
+comment = "this"
+decompiled = false
+
+[0xfa3bc1]
+last_change = 2026-09-23T12:24:01.135041Z
+addr = 0xfa3bc1
+func_addr = 0xfa3ba0
+comment = "this"
+decompiled = false
+
+[0xfa3bcc]
+last_change = 2026-09-23T12:24:01.135084Z
+addr = 0xfa3bcc
+func_addr = 0xfa3ba0
+comment = "this"
+decompiled = false
+
+[0xfa3bd0]
+last_change = 2026-09-23T12:24:01.135113Z
+addr = 0xfa3bd0
+func_addr = 0xfa3ba0
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfa3fbc]
+last_change = 2026-09-23T12:24:01.135126Z
+addr = 0xfa3fbc
+func_addr = 0xfa3ba0
+comment = "this"
+decompiled = false
+
+[0xfa3fc5]
+last_change = 2026-09-23T12:24:01.135137Z
+addr = 0xfa3fc5
+func_addr = 0xfa3ba0
+comment = "this"
+decompiled = false
+
+[0xfa3fce]
+last_change = 2026-09-23T12:24:01.135147Z
+addr = 0xfa3fce
+func_addr = 0xfa3ba0
+comment = "this"
+decompiled = false
+
+[0xfa4004]
+last_change = 2026-09-23T12:24:01.135158Z
+addr = 0xfa4004
+func_addr = 0xfa3ba0
+comment = "void (__cdecl *)()"
+decompiled = false
+
+[0xfa64ae]
+last_change = 2026-09-23T12:24:01.242482Z
+addr = 0xfa64ae
+func_addr = 0xfa63c0
+comment = "void (__cdecl *)()"
+decompiled = false
+
+[0xfa6832]
+last_change = 2026-09-23T12:24:01.349340Z
+addr = 0xfa6832
+func_addr = 0xfa66a0
+comment = "void (__cdecl *)()"
+decompiled = false
+
+[0xfa6f0d]
+last_change = 2026-09-23T12:24:01.726385Z
+addr = 0xfa6f0d
+func_addr = 0xfa6e00
+comment = "this"
+decompiled = false
+
+[0xfa7359]
+last_change = 2026-09-23T12:24:01.833379Z
+addr = 0xfa7359
+func_addr = 0xfa7330
+comment = "this"
+decompiled = false
+
+[0xfa7368]
+last_change = 2026-09-23T12:24:01.833423Z
+addr = 0xfa7368
+func_addr = 0xfa7330
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfa736f]
+last_change = 2026-09-23T12:24:01.833452Z
+addr = 0xfa736f
+func_addr = 0xfa7330
+comment = "this"
+decompiled = false
+
+[0xfa753c]
+last_change = 2026-09-23T12:24:01.833467Z
+addr = 0xfa753c
+func_addr = 0xfa7330
+comment = "struct v8::internal::Isolate *"
+decompiled = false
+
+[0xfa753f]
+last_change = 2026-09-23T12:24:01.833479Z
+addr = 0xfa753f
+func_addr = 0xfa7330
+comment = "this"
+decompiled = false
+
+[0xfa7556]
+last_change = 2026-09-23T12:24:01.833491Z
+addr = 0xfa7556
+func_addr = 0xfa7330
+comment = "this"
+decompiled = false
+
+[0xfa7570]
+last_change = 2026-09-23T12:24:01.833502Z
+addr = 0xfa7570
+func_addr = 0xfa7330
+comment = "unsigned __int64 **"
+decompiled = false
+
+[0xfa7576]
+last_change = 2026-09-23T12:24:01.833513Z
+addr = 0xfa7576
+func_addr = 0xfa7330
+comment = "this"
+decompiled = false
+
+[0xfa7587]
+last_change = 2026-09-23T12:24:01.833524Z
+addr = 0xfa7587
+func_addr = 0xfa7330
+comment = "this"
+decompiled = false
+
+[0xfa759c]
+last_change = 2026-09-23T12:24:01.833577Z
+addr = 0xfa759c
+func_addr = 0xfa7330
+comment = "unsigned __int64"
+decompiled = false
+
+[0xfa759f]
+last_change = 2026-09-23T12:24:01.833591Z
+addr = 0xfa759f
+func_addr = 0xfa7330
+comment = "struct v8::internal::Isolate *"
+decompiled = false
+
+[0xfa7648]
+last_change = 2026-09-23T12:24:01.833604Z
+addr = 0xfa7648
+func_addr = 0xfa7330
+comment = "this"
+decompiled = false
+
+[0xfa7651]
+last_change = 2026-09-23T12:24:01.833615Z
+addr = 0xfa7651
+func_addr = 0xfa7330
+comment = "this"
+decompiled = false
+
+[0xfa76a4]
+last_change = 2026-09-23T12:24:01.833626Z
+addr = 0xfa76a4
+func_addr = 0xfa7330
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfa76a9]
+last_change = 2026-09-23T12:24:01.833638Z
+addr = 0xfa76a9
+func_addr = 0xfa7330
+comment = "this"
+decompiled = false
+
+[0xfa770f]
+last_change = 2026-09-23T12:24:01.833649Z
+addr = 0xfa770f
+func_addr = 0xfa7330
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfa7714]
+last_change = 2026-09-23T12:24:01.833660Z
+addr = 0xfa7714
+func_addr = 0xfa7330
+comment = "this"
+decompiled = false
+
+[0xfa78aa]
+last_change = 2026-09-23T12:24:01.941084Z
+addr = 0xfa78aa
+func_addr = 0xfa77f0
+comment = "void (__cdecl *)()"
+decompiled = false
+
+[0xfa7948]
+last_change = 2026-09-23T12:24:01.995396Z
+addr = 0xfa7948
+func_addr = 0xfa78d0
+comment = "this"
+decompiled = false
+
+[0xfa80be]
+last_change = 2026-09-23T12:24:02.369992Z
+addr = 0xfa80be
+func_addr = 0xfa80a0
+comment = "this"
+decompiled = false
+
+[0xfa80c9]
+last_change = 2026-09-23T12:24:02.370038Z
+addr = 0xfa80c9
+func_addr = 0xfa80a0
+comment = "this"
+decompiled = false
+
+[0xfa80ce]
+last_change = 2026-09-23T12:24:02.370052Z
+addr = 0xfa80ce
+func_addr = 0xfa80a0
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfa824e]
+last_change = 2026-09-23T12:24:02.370065Z
+addr = 0xfa824e
+func_addr = 0xfa80a0
+comment = "this"
+decompiled = false
+
+[0xfa8258]
+last_change = 2026-09-23T12:24:02.370078Z
+addr = 0xfa8258
+func_addr = 0xfa80a0
+comment = "this"
+decompiled = false
+
+[0xfa8262]
+last_change = 2026-09-23T12:24:02.370090Z
+addr = 0xfa8262
+func_addr = 0xfa80a0
+comment = "this"
+decompiled = false
+
+[0xfa82f8]
+last_change = 2026-09-23T12:24:02.423162Z
+addr = 0xfa82f8
+func_addr = 0xfa8280
+comment = "this"
+decompiled = false
+
+[0xfa85d2]
+last_change = 2026-09-23T12:24:02.582675Z
+addr = 0xfa85d2
+func_addr = 0xfa85a0
+comment = "this"
+decompiled = false
+
+[0xfa85dd]
+last_change = 2026-09-23T12:24:02.582721Z
+addr = 0xfa85dd
+func_addr = 0xfa85a0
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfa85e0]
+last_change = 2026-09-23T12:24:02.582735Z
+addr = 0xfa85e0
+func_addr = 0xfa85a0
+comment = "this"
+decompiled = false
+
+[0xfa884d]
+last_change = 2026-09-23T12:24:02.582748Z
+addr = 0xfa884d
+func_addr = 0xfa85a0
+comment = "struct v8::internal::Isolate *"
+decompiled = false
+
+[0xfa8850]
+last_change = 2026-09-23T12:24:02.582760Z
+addr = 0xfa8850
+func_addr = 0xfa85a0
+comment = "this"
+decompiled = false
+
+[0xfa8865]
+last_change = 2026-09-23T12:24:02.582798Z
+addr = 0xfa8865
+func_addr = 0xfa85a0
+comment = "this"
+decompiled = false
+
+[0xfa8880]
+last_change = 2026-09-23T12:24:02.582814Z
+addr = 0xfa8880
+func_addr = 0xfa85a0
+comment = "unsigned __int64 **"
+decompiled = false
+
+[0xfa8887]
+last_change = 2026-09-23T12:24:02.582827Z
+addr = 0xfa8887
+func_addr = 0xfa85a0
+comment = "this"
+decompiled = false
+
+[0xfa8897]
+last_change = 2026-09-23T12:24:02.582840Z
+addr = 0xfa8897
+func_addr = 0xfa85a0
+comment = "this"
+decompiled = false
+
+[0xfa88a8]
+last_change = 2026-09-23T12:24:02.582852Z
+addr = 0xfa88a8
+func_addr = 0xfa85a0
+comment = "unsigned __int64"
+decompiled = false
+
+[0xfa88ab]
+last_change = 2026-09-23T12:24:02.582906Z
+addr = 0xfa88ab
+func_addr = 0xfa85a0
+comment = "struct v8::internal::Isolate *"
+decompiled = false
+
+[0xfa8f7f]
+last_change = 2026-09-23T12:24:02.582921Z
+addr = 0xfa8f7f
+func_addr = 0xfa85a0
+comment = "this"
+decompiled = false
+
+[0xfa8f88]
+last_change = 2026-09-23T12:24:02.582934Z
+addr = 0xfa8f88
+func_addr = 0xfa85a0
+comment = "this"
+decompiled = false
+
+[0xfa8fdd]
+last_change = 2026-09-23T12:24:02.582946Z
+addr = 0xfa8fdd
+func_addr = 0xfa85a0
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfa8fe1]
+last_change = 2026-09-23T12:24:02.582958Z
+addr = 0xfa8fe1
+func_addr = 0xfa85a0
+comment = "this"
+decompiled = false
+
+[0xfa9042]
+last_change = 2026-09-23T12:24:02.582970Z
+addr = 0xfa9042
+func_addr = 0xfa85a0
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfa9046]
+last_change = 2026-09-23T12:24:02.582982Z
+addr = 0xfa9046
+func_addr = 0xfa85a0
+comment = "this"
+decompiled = false
+
+[0xfa90ab]
+last_change = 2026-09-23T12:24:02.582995Z
+addr = 0xfa90ab
+func_addr = 0xfa85a0
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfa90af]
+last_change = 2026-09-23T12:24:02.583007Z
+addr = 0xfa90af
+func_addr = 0xfa85a0
+comment = "this"
+decompiled = false
+
+[0xfa9114]
+last_change = 2026-09-23T12:24:02.583019Z
+addr = 0xfa9114
+func_addr = 0xfa85a0
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfa9118]
+last_change = 2026-09-23T12:24:02.583031Z
+addr = 0xfa9118
+func_addr = 0xfa85a0
+comment = "this"
+decompiled = false
+
+[0xfa917d]
+last_change = 2026-09-23T12:24:02.583043Z
+addr = 0xfa917d
+func_addr = 0xfa85a0
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfa9181]
+last_change = 2026-09-23T12:24:02.583055Z
+addr = 0xfa9181
+func_addr = 0xfa85a0
+comment = "this"
+decompiled = false
+
+[0xfa91e6]
+last_change = 2026-09-23T12:24:02.583067Z
+addr = 0xfa91e6
+func_addr = 0xfa85a0
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfa91ed]
+last_change = 2026-09-23T12:24:02.583079Z
+addr = 0xfa91ed
+func_addr = 0xfa85a0
+comment = "this"
+decompiled = false
+
+[0xfa924e]
+last_change = 2026-09-23T12:24:02.583092Z
+addr = 0xfa924e
+func_addr = 0xfa85a0
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfa9252]
+last_change = 2026-09-23T12:24:02.583104Z
+addr = 0xfa9252
+func_addr = 0xfa85a0
+comment = "this"
+decompiled = false
+
+[0xfa92b3]
+last_change = 2026-09-23T12:24:02.583116Z
+addr = 0xfa92b3
+func_addr = 0xfa85a0
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfa92b7]
+last_change = 2026-09-23T12:24:02.583128Z
+addr = 0xfa92b7
+func_addr = 0xfa85a0
+comment = "this"
+decompiled = false
+
+[0xfa9318]
+last_change = 2026-09-23T12:24:02.583146Z
+addr = 0xfa9318
+func_addr = 0xfa85a0
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfa931c]
+last_change = 2026-09-23T12:24:02.583159Z
+addr = 0xfa931c
+func_addr = 0xfa85a0
+comment = "this"
+decompiled = false
+
+[0xfa937d]
+last_change = 2026-09-23T12:24:02.583171Z
+addr = 0xfa937d
+func_addr = 0xfa85a0
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfa9381]
+last_change = 2026-09-23T12:24:02.583183Z
+addr = 0xfa9381
+func_addr = 0xfa85a0
+comment = "this"
+decompiled = false
+
+[0xfa93e2]
+last_change = 2026-09-23T12:24:02.583195Z
+addr = 0xfa93e2
+func_addr = 0xfa85a0
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfa93e6]
+last_change = 2026-09-23T12:24:02.583207Z
+addr = 0xfa93e6
+func_addr = 0xfa85a0
+comment = "this"
+decompiled = false
+
+[0xfa9447]
+last_change = 2026-09-23T12:24:02.583219Z
+addr = 0xfa9447
+func_addr = 0xfa85a0
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfa944b]
+last_change = 2026-09-23T12:24:02.583231Z
+addr = 0xfa944b
+func_addr = 0xfa85a0
+comment = "this"
+decompiled = false
+
+[0xfa94ac]
+last_change = 2026-09-23T12:24:02.583244Z
+addr = 0xfa94ac
+func_addr = 0xfa85a0
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfa94b0]
+last_change = 2026-09-23T12:24:02.583256Z
+addr = 0xfa94b0
+func_addr = 0xfa85a0
+comment = "this"
+decompiled = false
+
+[0xfa9511]
+last_change = 2026-09-23T12:24:02.583268Z
+addr = 0xfa9511
+func_addr = 0xfa85a0
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfa9515]
+last_change = 2026-09-23T12:24:02.583280Z
+addr = 0xfa9515
+func_addr = 0xfa85a0
+comment = "this"
+decompiled = false
+
+[0xfa9576]
+last_change = 2026-09-23T12:24:02.583292Z
+addr = 0xfa9576
+func_addr = 0xfa85a0
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfa957a]
+last_change = 2026-09-23T12:24:02.583304Z
+addr = 0xfa957a
+func_addr = 0xfa85a0
+comment = "this"
+decompiled = false
+
+[0xfa95db]
+last_change = 2026-09-23T12:24:02.583316Z
+addr = 0xfa95db
+func_addr = 0xfa85a0
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfa95df]
+last_change = 2026-09-23T12:24:02.583328Z
+addr = 0xfa95df
+func_addr = 0xfa85a0
+comment = "this"
+decompiled = false
+
+[0xfa9640]
+last_change = 2026-09-23T12:24:02.583340Z
+addr = 0xfa9640
+func_addr = 0xfa85a0
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfa9644]
+last_change = 2026-09-23T12:24:02.583352Z
+addr = 0xfa9644
+func_addr = 0xfa85a0
+comment = "this"
+decompiled = false
+
+[0xfa96a5]
+last_change = 2026-09-23T12:24:02.583364Z
+addr = 0xfa96a5
+func_addr = 0xfa85a0
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfa96a9]
+last_change = 2026-09-23T12:24:02.583376Z
+addr = 0xfa96a9
+func_addr = 0xfa85a0
+comment = "this"
+decompiled = false
+
+[0xfa970a]
+last_change = 2026-09-23T12:24:02.583388Z
+addr = 0xfa970a
+func_addr = 0xfa85a0
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfa970e]
+last_change = 2026-09-23T12:24:02.583400Z
+addr = 0xfa970e
+func_addr = 0xfa85a0
+comment = "this"
+decompiled = false
+
+[0xfa976f]
+last_change = 2026-09-23T12:24:02.583412Z
+addr = 0xfa976f
+func_addr = 0xfa85a0
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfa9773]
+last_change = 2026-09-23T12:24:02.583424Z
+addr = 0xfa9773
+func_addr = 0xfa85a0
+comment = "this"
+decompiled = false
+
+[0xfa97d4]
+last_change = 2026-09-23T12:24:02.583436Z
+addr = 0xfa97d4
+func_addr = 0xfa85a0
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfa97d8]
+last_change = 2026-09-23T12:24:02.583448Z
+addr = 0xfa97d8
+func_addr = 0xfa85a0
+comment = "this"
+decompiled = false
+
+[0xfa9839]
+last_change = 2026-09-23T12:24:02.583460Z
+addr = 0xfa9839
+func_addr = 0xfa85a0
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfa983d]
+last_change = 2026-09-23T12:24:02.583473Z
+addr = 0xfa983d
+func_addr = 0xfa85a0
+comment = "this"
+decompiled = false
+
+[0xfa989e]
+last_change = 2026-09-23T12:24:02.583485Z
+addr = 0xfa989e
+func_addr = 0xfa85a0
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfa98a2]
+last_change = 2026-09-23T12:24:02.583497Z
+addr = 0xfa98a2
+func_addr = 0xfa85a0
+comment = "this"
+decompiled = false
+
+[0xfa9903]
+last_change = 2026-09-23T12:24:02.583509Z
+addr = 0xfa9903
+func_addr = 0xfa85a0
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfa9907]
+last_change = 2026-09-23T12:24:02.583522Z
+addr = 0xfa9907
+func_addr = 0xfa85a0
+comment = "this"
+decompiled = false
+
+[0xfa9968]
+last_change = 2026-09-23T12:24:02.583535Z
+addr = 0xfa9968
+func_addr = 0xfa85a0
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfa996c]
+last_change = 2026-09-23T12:24:02.583547Z
+addr = 0xfa996c
+func_addr = 0xfa85a0
+comment = "this"
+decompiled = false
+
+[0xfae66a]
+last_change = 2026-09-23T12:24:03.011827Z
+addr = 0xfae66a
+func_addr = 0xfae620
+comment = "this"
+decompiled = false
+
+[0xfae67b]
+last_change = 2026-09-23T12:24:03.011872Z
+addr = 0xfae67b
+func_addr = 0xfae620
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfae680]
+last_change = 2026-09-23T12:24:03.011886Z
+addr = 0xfae680
+func_addr = 0xfae620
+comment = "this"
+decompiled = false
+
+[0xfae8bf]
+last_change = 2026-09-23T12:24:03.011899Z
+addr = 0xfae8bf
+func_addr = 0xfae620
+comment = "struct v8::internal::Isolate *"
+decompiled = false
+
+[0xfae8c2]
+last_change = 2026-09-23T12:24:03.011912Z
+addr = 0xfae8c2
+func_addr = 0xfae620
+comment = "this"
+decompiled = false
+
+[0xfae8d9]
+last_change = 2026-09-23T12:24:03.011925Z
+addr = 0xfae8d9
+func_addr = 0xfae620
+comment = "this"
+decompiled = false
+
+[0xfae8f3]
+last_change = 2026-09-23T12:24:03.011937Z
+addr = 0xfae8f3
+func_addr = 0xfae620
+comment = "unsigned __int64 **"
+decompiled = false
+
+[0xfae8f9]
+last_change = 2026-09-23T12:24:03.011950Z
+addr = 0xfae8f9
+func_addr = 0xfae620
+comment = "this"
+decompiled = false
+
+[0xfae90a]
+last_change = 2026-09-23T12:24:03.011963Z
+addr = 0xfae90a
+func_addr = 0xfae620
+comment = "this"
+decompiled = false
+
+[0xfae91f]
+last_change = 2026-09-23T12:24:03.011976Z
+addr = 0xfae91f
+func_addr = 0xfae620
+comment = "unsigned __int64"
+decompiled = false
+
+[0xfae922]
+last_change = 2026-09-23T12:24:03.011989Z
+addr = 0xfae922
+func_addr = 0xfae620
+comment = "struct v8::internal::Isolate *"
+decompiled = false
+
+[0xfaea5f]
+last_change = 2026-09-23T12:24:03.012001Z
+addr = 0xfaea5f
+func_addr = 0xfae620
+comment = "struct v8::internal::Isolate *"
+decompiled = false
+
+[0xfaea62]
+last_change = 2026-09-23T12:24:03.012014Z
+addr = 0xfaea62
+func_addr = 0xfae620
+comment = "this"
+decompiled = false
+
+[0xfaea79]
+last_change = 2026-09-23T12:24:03.012027Z
+addr = 0xfaea79
+func_addr = 0xfae620
+comment = "this"
+decompiled = false
+
+[0xfaea99]
+last_change = 2026-09-23T12:24:03.012040Z
+addr = 0xfaea99
+func_addr = 0xfae620
+comment = "unsigned __int64 **"
+decompiled = false
+
+[0xfaeaa0]
+last_change = 2026-09-23T12:24:03.012053Z
+addr = 0xfaeaa0
+func_addr = 0xfae620
+comment = "this"
+decompiled = false
+
+[0xfaeab1]
+last_change = 2026-09-23T12:24:03.012065Z
+addr = 0xfaeab1
+func_addr = 0xfae620
+comment = "this"
+decompiled = false
+
+[0xfaead0]
+last_change = 2026-09-23T12:24:03.012078Z
+addr = 0xfaead0
+func_addr = 0xfae620
+comment = "unsigned __int64"
+decompiled = false
+
+[0xfaead3]
+last_change = 2026-09-23T12:24:03.012091Z
+addr = 0xfaead3
+func_addr = 0xfae620
+comment = "struct v8::internal::Isolate *"
+decompiled = false
+
+[0xfaec6b]
+last_change = 2026-09-23T12:24:03.012103Z
+addr = 0xfaec6b
+func_addr = 0xfae620
+comment = "struct v8::internal::Isolate *"
+decompiled = false
+
+[0xfaec6e]
+last_change = 2026-09-23T12:24:03.012116Z
+addr = 0xfaec6e
+func_addr = 0xfae620
+comment = "this"
+decompiled = false
+
+[0xfaec85]
+last_change = 2026-09-23T12:24:03.012129Z
+addr = 0xfaec85
+func_addr = 0xfae620
+comment = "this"
+decompiled = false
+
+[0xfaeca3]
+last_change = 2026-09-23T12:24:03.012142Z
+addr = 0xfaeca3
+func_addr = 0xfae620
+comment = "unsigned __int64 **"
+decompiled = false
+
+[0xfaeca9]
+last_change = 2026-09-23T12:24:03.012155Z
+addr = 0xfaeca9
+func_addr = 0xfae620
+comment = "this"
+decompiled = false
+
+[0xfaecba]
+last_change = 2026-09-23T12:24:03.012167Z
+addr = 0xfaecba
+func_addr = 0xfae620
+comment = "this"
+decompiled = false
+
+[0xfaecce]
+last_change = 2026-09-23T12:24:03.012180Z
+addr = 0xfaecce
+func_addr = 0xfae620
+comment = "unsigned __int64"
+decompiled = false
+
+[0xfaecd1]
+last_change = 2026-09-23T12:24:03.012193Z
+addr = 0xfaecd1
+func_addr = 0xfae620
+comment = "struct v8::internal::Isolate *"
+decompiled = false
+
+[0xfaeda1]
+last_change = 2026-09-23T12:24:03.012205Z
+addr = 0xfaeda1
+func_addr = 0xfae620
+comment = "this"
+decompiled = false
+
+[0xfaedb7]
+last_change = 2026-09-23T12:24:03.012218Z
+addr = 0xfaedb7
+func_addr = 0xfae620
+comment = "this"
+decompiled = false
+
+[0xfaee12]
+last_change = 2026-09-23T12:24:03.012232Z
+addr = 0xfaee12
+func_addr = 0xfae620
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfaee19]
+last_change = 2026-09-23T12:24:03.012245Z
+addr = 0xfaee19
+func_addr = 0xfae620
+comment = "this"
+decompiled = false
+
+[0xfaee80]
+last_change = 2026-09-23T12:24:03.012258Z
+addr = 0xfaee80
+func_addr = 0xfae620
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfaee84]
+last_change = 2026-09-23T12:24:03.012271Z
+addr = 0xfaee84
+func_addr = 0xfae620
+comment = "this"
+decompiled = false
+
+[0xfaeeeb]
+last_change = 2026-09-23T12:24:03.012284Z
+addr = 0xfaeeeb
+func_addr = 0xfae620
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfaeeef]
+last_change = 2026-09-23T12:24:03.012297Z
+addr = 0xfaeeef
+func_addr = 0xfae620
+comment = "this"
+decompiled = false
+
+[0xfaef54]
+last_change = 2026-09-23T12:24:03.012310Z
+addr = 0xfaef54
+func_addr = 0xfae620
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfaef58]
+last_change = 2026-09-23T12:24:03.012322Z
+addr = 0xfaef58
+func_addr = 0xfae620
+comment = "this"
+decompiled = false
+
+[0xfaefbd]
+last_change = 2026-09-23T12:24:03.012335Z
+addr = 0xfaefbd
+func_addr = 0xfae620
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfaefc1]
+last_change = 2026-09-23T12:24:03.012348Z
+addr = 0xfaefc1
+func_addr = 0xfae620
+comment = "this"
+decompiled = false
+
+[0xfaf029]
+last_change = 2026-09-23T12:24:03.012361Z
+addr = 0xfaf029
+func_addr = 0xfae620
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfaf030]
+last_change = 2026-09-23T12:24:03.012373Z
+addr = 0xfaf030
+func_addr = 0xfae620
+comment = "this"
+decompiled = false
+
+[0xfb22ca]
+last_change = 2026-09-23T12:24:03.280952Z
+addr = 0xfb22ca
+func_addr = 0xfb21d0
+comment = "void (__cdecl *)()"
+decompiled = false
+
+[0xfb2724]
+last_change = 2026-09-23T12:24:03.441996Z
+addr = 0xfb2724
+func_addr = 0xfb26b0
+comment = "this"
+decompiled = false
+
+[0xfb273c]
+last_change = 2026-09-23T12:24:03.442046Z
+addr = 0xfb273c
+func_addr = 0xfb26b0
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfb273f]
+last_change = 2026-09-23T12:24:03.442061Z
+addr = 0xfb273f
+func_addr = 0xfb26b0
+comment = "this"
+decompiled = false
+
+[0xfb299b]
+last_change = 2026-09-23T12:24:03.442075Z
+addr = 0xfb299b
+func_addr = 0xfb26b0
+comment = "struct v8::internal::Isolate *"
+decompiled = false
+
+[0xfb299e]
+last_change = 2026-09-23T12:24:03.442089Z
+addr = 0xfb299e
+func_addr = 0xfb26b0
+comment = "this"
+decompiled = false
+
+[0xfb29b3]
+last_change = 2026-09-23T12:24:03.442102Z
+addr = 0xfb29b3
+func_addr = 0xfb26b0
+comment = "this"
+decompiled = false
+
+[0xfb29d0]
+last_change = 2026-09-23T12:24:03.442116Z
+addr = 0xfb29d0
+func_addr = 0xfb26b0
+comment = "unsigned __int64 **"
+decompiled = false
+
+[0xfb29d6]
+last_change = 2026-09-23T12:24:03.442129Z
+addr = 0xfb29d6
+func_addr = 0xfb26b0
+comment = "this"
+decompiled = false
+
+[0xfb29e6]
+last_change = 2026-09-23T12:24:03.442142Z
+addr = 0xfb29e6
+func_addr = 0xfb26b0
+comment = "this"
+decompiled = false
+
+[0xfb29fe]
+last_change = 2026-09-23T12:24:03.442155Z
+addr = 0xfb29fe
+func_addr = 0xfb26b0
+comment = "unsigned __int64"
+decompiled = false
+
+[0xfb2a01]
+last_change = 2026-09-23T12:24:03.442169Z
+addr = 0xfb2a01
+func_addr = 0xfb26b0
+comment = "struct v8::internal::Isolate *"
+decompiled = false
+
+[0xfb2f90]
+last_change = 2026-09-23T12:24:03.442182Z
+addr = 0xfb2f90
+func_addr = 0xfb26b0
+comment = "this"
+decompiled = false
+
+[0xfb2f99]
+last_change = 2026-09-23T12:24:03.442195Z
+addr = 0xfb2f99
+func_addr = 0xfb26b0
+comment = "this"
+decompiled = false
+
+[0xfb2ff3]
+last_change = 2026-09-23T12:24:03.442209Z
+addr = 0xfb2ff3
+func_addr = 0xfb26b0
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfb2ff7]
+last_change = 2026-09-23T12:24:03.442222Z
+addr = 0xfb2ff7
+func_addr = 0xfb26b0
+comment = "this"
+decompiled = false
+
+[0xfb3058]
+last_change = 2026-09-23T12:24:03.442236Z
+addr = 0xfb3058
+func_addr = 0xfb26b0
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfb305c]
+last_change = 2026-09-23T12:24:03.442249Z
+addr = 0xfb305c
+func_addr = 0xfb26b0
+comment = "this"
+decompiled = false
+
+[0xfb30bd]
+last_change = 2026-09-23T12:24:03.442262Z
+addr = 0xfb30bd
+func_addr = 0xfb26b0
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfb30c1]
+last_change = 2026-09-23T12:24:03.442275Z
+addr = 0xfb30c1
+func_addr = 0xfb26b0
+comment = "this"
+decompiled = false
+
+[0xfb3122]
+last_change = 2026-09-23T12:24:03.442289Z
+addr = 0xfb3122
+func_addr = 0xfb26b0
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfb3126]
+last_change = 2026-09-23T12:24:03.442302Z
+addr = 0xfb3126
+func_addr = 0xfb26b0
+comment = "this"
+decompiled = false
+
+[0xfb3187]
+last_change = 2026-09-23T12:24:03.442315Z
+addr = 0xfb3187
+func_addr = 0xfb26b0
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfb318b]
+last_change = 2026-09-23T12:24:03.442344Z
+addr = 0xfb318b
+func_addr = 0xfb26b0
+comment = "this"
+decompiled = false
+
+[0xfb31ec]
+last_change = 2026-09-23T12:24:03.442363Z
+addr = 0xfb31ec
+func_addr = 0xfb26b0
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfb31f0]
+last_change = 2026-09-23T12:24:03.442378Z
+addr = 0xfb31f0
+func_addr = 0xfb26b0
+comment = "this"
+decompiled = false
+
+[0xfb3251]
+last_change = 2026-09-23T12:24:03.442392Z
+addr = 0xfb3251
+func_addr = 0xfb26b0
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfb3255]
+last_change = 2026-09-23T12:24:03.442406Z
+addr = 0xfb3255
+func_addr = 0xfb26b0
+comment = "this"
+decompiled = false
+
+[0xfb32b6]
+last_change = 2026-09-23T12:24:03.442420Z
+addr = 0xfb32b6
+func_addr = 0xfb26b0
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfb32ba]
+last_change = 2026-09-23T12:24:03.442433Z
+addr = 0xfb32ba
+func_addr = 0xfb26b0
+comment = "this"
+decompiled = false
+
+[0xfb331b]
+last_change = 2026-09-23T12:24:03.442446Z
+addr = 0xfb331b
+func_addr = 0xfb26b0
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfb331f]
+last_change = 2026-09-23T12:24:03.442460Z
+addr = 0xfb331f
+func_addr = 0xfb26b0
+comment = "this"
+decompiled = false
+
+[0xfb3380]
+last_change = 2026-09-23T12:24:03.442473Z
+addr = 0xfb3380
+func_addr = 0xfb26b0
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfb3384]
+last_change = 2026-09-23T12:24:03.442486Z
+addr = 0xfb3384
+func_addr = 0xfb26b0
+comment = "this"
+decompiled = false
+
+[0xfb33e5]
+last_change = 2026-09-23T12:24:03.442500Z
+addr = 0xfb33e5
+func_addr = 0xfb26b0
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfb33e9]
+last_change = 2026-09-23T12:24:03.442513Z
+addr = 0xfb33e9
+func_addr = 0xfb26b0
+comment = "this"
+decompiled = false
+
+[0xfb344a]
+last_change = 2026-09-23T12:24:03.442527Z
+addr = 0xfb344a
+func_addr = 0xfb26b0
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfb344e]
+last_change = 2026-09-23T12:24:03.442541Z
+addr = 0xfb344e
+func_addr = 0xfb26b0
+comment = "this"
+decompiled = false
+
+[0xfb34af]
+last_change = 2026-09-23T12:24:03.442554Z
+addr = 0xfb34af
+func_addr = 0xfb26b0
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfb34b3]
+last_change = 2026-09-23T12:24:03.442567Z
+addr = 0xfb34b3
+func_addr = 0xfb26b0
+comment = "this"
+decompiled = false
+
+[0xfb3514]
+last_change = 2026-09-23T12:24:03.442581Z
+addr = 0xfb3514
+func_addr = 0xfb26b0
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfb3518]
+last_change = 2026-09-23T12:24:03.442594Z
+addr = 0xfb3518
+func_addr = 0xfb26b0
+comment = "this"
+decompiled = false
+
+[0xfb3579]
+last_change = 2026-09-23T12:24:03.442608Z
+addr = 0xfb3579
+func_addr = 0xfb26b0
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfb357d]
+last_change = 2026-09-23T12:24:03.442621Z
+addr = 0xfb357d
+func_addr = 0xfb26b0
+comment = "this"
+decompiled = false
+
+[0xfb35de]
+last_change = 2026-09-23T12:24:03.442635Z
+addr = 0xfb35de
+func_addr = 0xfb26b0
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfb35e2]
+last_change = 2026-09-23T12:24:03.442648Z
+addr = 0xfb35e2
+func_addr = 0xfb26b0
+comment = "this"
+decompiled = false
+
+[0xfb3643]
+last_change = 2026-09-23T12:24:03.442662Z
+addr = 0xfb3643
+func_addr = 0xfb26b0
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfb3647]
+last_change = 2026-09-23T12:24:03.442675Z
+addr = 0xfb3647
+func_addr = 0xfb26b0
+comment = "this"
+decompiled = false
+
+[0xfb36a8]
+last_change = 2026-09-23T12:24:03.442688Z
+addr = 0xfb36a8
+func_addr = 0xfb26b0
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfb36ac]
+last_change = 2026-09-23T12:24:03.442702Z
+addr = 0xfb36ac
+func_addr = 0xfb26b0
+comment = "this"
+decompiled = false
+
+[0xfb370d]
+last_change = 2026-09-23T12:24:03.442715Z
+addr = 0xfb370d
+func_addr = 0xfb26b0
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfb3711]
+last_change = 2026-09-23T12:24:03.442729Z
+addr = 0xfb3711
+func_addr = 0xfb26b0
+comment = "this"
+decompiled = false
+
+[0xfb3772]
+last_change = 2026-09-23T12:24:03.442742Z
+addr = 0xfb3772
+func_addr = 0xfb26b0
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfb3776]
+last_change = 2026-09-23T12:24:03.442756Z
+addr = 0xfb3776
+func_addr = 0xfb26b0
+comment = "this"
+decompiled = false
+
+[0xfb37d7]
+last_change = 2026-09-23T12:24:03.442769Z
+addr = 0xfb37d7
+func_addr = 0xfb26b0
+comment = "struct v8::Isolate *"
+decompiled = false
+
+[0xfb37db]
+last_change = 2026-09-23T12:24:03.442783Z
+addr = 0xfb37db
+func_addr = 0xfb26b0
+comment = "this"
+decompiled = false
+
+[0xfc8944]
+last_change = 2026-09-23T12:24:04.408612Z
+addr = 0xfc8944
+func_addr = 0xfc8940
+comment = "this"
+decompiled = false
+
+[0x19a3ae2]
+last_change = 2026-09-23T12:24:05.590009Z
+addr = 0x19a3ae2
+func_addr = 0x19a3ac0
+comment = "Trap to Debugger"
+decompiled = false

@@ -1,0 +1,10 @@
+last_change = 2026-09-23T12:23:41.818818Z
+addr = 0xfb2060
+size = 0x29
+name = "sub_180FB3060"
+
+[header]
+name = "sub_180FB3060"
+addr = 0xfb2060
+
+[header.args]
